@@ -1,0 +1,25 @@
+{
+    "posts":[
+        {
+            "slug": "my-first-blog-post",
+            "title": "my first blog-post",
+            "author": "Fredy Yudiawan",
+            "date": "2020-10-10",
+            "content": "Incididunt laboris deserunt ullamco aliqua nostrud laborum. Nostrud nulla adipisicing cupidatat duis enim laborum in ex incididunt eiusmod. Esse mollit eu irure amet et. Exercitation exercitation reprehenderit labore veniam. Nisi ad nisi occaecat voluptate veniam irure occaecat dolore mollit. Fugiat anim aute eiusmod incididunt duis elit cillum cupidatat elit esse labore. Duis deserunt duis qui reprehenderit velit ad laboris duis ad. Consectetur dolore et eiusmod cupidatat ut tempor cupidatat esse. Elit ea id in ex esse dolore aliquip officia elit enim. Incididunt proident id enim ea aliquip sint et aute Lorem id velit laboris. Ad eu commodo officia velit. Sunt minim nulla qui esse anim irure aliquip. Esse aliqua dolor eu nulla officia eiusmod minim cillum magna ex in aliqua. Id velit sit sit nisi ex in."
+        },
+        {
+            "slug": "my-second-blog-post",
+            "title": "my second blog-post",
+            "author": "Fredy Yudiawan",
+            "date": "2020-10-11",
+            "content": "Incididunt laboris deserunt ullamco aliqua nostrud laborum. Nostrud nulla adipisicing cupidatat duis enim laborum in ex incididunt eiusmod. Esse mollit eu irure amet et. Exercitation exercitation reprehenderit labore veniam. Nisi ad nisi occaecat voluptate veniam irure occaecat dolore mollit. Fugiat anim aute eiusmod incididunt duis elit cillum cupidatat elit esse labore. Duis deserunt duis qui reprehenderit velit ad laboris duis ad. Consectetur dolore et eiusmod cupidatat ut tempor cupidatat esse. Elit ea id in ex esse dolore aliquip officia elit enim. Incididunt proident id enim ea aliquip sint et aute Lorem id velit laboris. Ad eu commodo officia velit. Sunt minim nulla qui esse anim irure aliquip. Esse aliqua dolor eu nulla officia eiusmod minim cillum magna ex in aliqua. Id velit sit sit nisi ex in."
+        },
+        {
+            "slug": "my-third-blog-post",
+            "title": "my third blog-post",
+            "author": "Fredy Yudiawan",
+            "date": "2020-10-13",
+            "content": "Incididunt laboris deserunt ullamco aliqua nostrud laborum. Nostrud nulla adipisicing cupidatat duis enim laborum in ex incididunt eiusmod. Esse mollit eu irure amet et. Exercitation exercitation reprehenderit labore veniam. Nisi ad nisi occaecat voluptate veniam irure occaecat dolore mollit. Fugiat anim aute eiusmod incididunt duis elit cillum cupidatat elit esse labore. Duis deserunt duis qui reprehenderit velit ad laboris duis ad. Consectetur dolore et eiusmod cupidatat ut tempor cupidatat esse. Elit ea id in ex esse dolore aliquip officia elit enim. Incididunt proident id enim ea aliquip sint et aute Lorem id velit laboris. Ad eu commodo officia velit. Sunt minim nulla qui esse anim irure aliquip. Esse aliqua dolor eu nulla officia eiusmod minim cillum magna ex in aliqua. Id velit sit sit nisi ex in."
+        }
+    ]
+}
